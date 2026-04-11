@@ -4,7 +4,7 @@
 
 ## 🌐 Try it Online — No Install Required
 
-**Hosted version:** [muapi.ai/open-higgsfield-ai](https://muapi.ai/open-higgsfield-ai)
+**Hosted version:** [dev.muapi.ai/open-higgsfield-ai](https://muapi.ai/open-higgsfield-ai)
 
 Use all four studios (Image, Video, Lip Sync, Cinema) directly in your browser — no Node.js, no setup. Sign up for a free account to start generating. The hosted version is always up to date with the latest models.
 
